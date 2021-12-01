@@ -14,11 +14,15 @@ This is an open source version derived from internal materials , make it for pub
 
 First of all , what is embedded system ? 
 
+https://github.com/nxrtos/pub_journey_on_embedded_software_development/blob/master/00_intro_emb_sys/intro_emb_sys.md
+
 [brief on embedded system]: https://github.com/nxrtos/pub_journey_on_embedded_software_development/blob/master/00_intro_emb_sys/intro_emb_sys.md	"brief on embedded system"
 
 ## 01. Embedded software development environment 
 
 Here we talk about the environment to develop software for embedded system . There are many vendors and solutions , or you can make your own tool set from distinct software tools and packages .
 
-[setting up the software development environment for embedded system]: https://github.com/nxrtos/pub_journey_on_embedded_software_development/tree/master/01_set_embsoft_devenv	"setting up the software development environment for embedded system"
+https://github.com/nxrtos/pub_journey_on_embedded_software_development/blob/master/01_set_embsoft_devenv/setup_embsoft_devenv.md
+
+[setting up the software development environment for embedded system]: https://github.com/nxrtos/pub_journey_on_embedded_software_development/blob/master/01_set_embsoft_devenv/setup_embsoft_devenv.md	"setting up the software development environment for embedded system"
 
